@@ -1,3 +1,4 @@
+var self = window || self;
 (function (global, undefined) {
     "use strict";
 
